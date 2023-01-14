@@ -105,6 +105,7 @@ body {
 
 .cart-button:hover {
     background-color: hsl(158, 36%, 23%);
+    cursor: pointer;
 }
 
 @media (max-width: 660px) {
